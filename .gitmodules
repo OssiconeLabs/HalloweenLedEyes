@@ -1,0 +1,3 @@
+[submodule "Design/KiCad-Libraries"]
+	path = Design/KiCad-Libraries
+	url = https://github.com/OssiconeLabs/KiCad-Libraries.git
